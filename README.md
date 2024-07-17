@@ -1,1 +1,1 @@
-# Excel
+This is a sales analysis of Vrinda store for the financial year 2022-23. The data is cleaned, sorted, analyzed and presented to give insights to boost the sales. Various insights listed include (Gender, month, state, platform) wise distribution.
